@@ -1,0 +1,95 @@
+body
+{font-family: 'Bebas Neue', cursive;
+font-size: 20px;
+margin: 0px;
+padding: 0px; 
+background: url('bg.jpg');
+height: fit-content;
+width: fit-content;
+}
+.left{
+display: inline-block;
+color: aliceblue;
+position: absolute;
+top:20px;
+left: 40px;
+
+}
+.mid{
+display: block;
+width: 33%;
+margin: 20px 523px;
+color: aliceblue;
+border: 2px solid white;
+border-radius: 10px;
+
+}
+.right{
+display: inline-block;
+position: absolute;
+left: 1380px;
+top:28px;
+
+
+}
+.navbar{
+display: inline-block;
+}
+.navbar li{
+color: white;
+display: inline-block;
+}
+.navbar li a{
+color: white;
+text-decoration: none;
+padding: 34px 24px;
+}
+.navbar li a:hover{
+color: yellow;
+text-decoration: underline;
+}
+.left img{
+width: 82px;
+height: 62px;
+display: block;
+margin: 0 auto;
+
+}
+.left div{
+text-align: center;
+font-size: 25px;
+}
+
+.btn{font-family: 'Bebas Neue', cursive;
+font-size: 20px;
+padding-top: 16px;
+padding-right: 23px;
+padding-bottom: 15px;
+padding-left: 23px;
+background-color: transparent;
+color: white;
+border: 2px solid white;
+border-radius: 10px;
+}
+
+.btn:hover{
+color: yellow;
+border : solid yellow;
+}
+.para{
+
+color: rgb(168, 243, 48);
+font-size: 60px;
+position: absolute;
+left: 34px;
+top: 210px;
+}
+.sp
+{
+font-size: 40px;
+color: rgb(194, 248, 141);
+position: absolute;
+left: 34px;
+top: 360px;
+
+}
